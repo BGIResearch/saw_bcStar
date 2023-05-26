@@ -1,0 +1,49 @@
+errorCodeDict.txt
+test.txt
+errcode.log
+.DS_Store
+.idea/
+.vscode/
+Depend.list
+STAR.dSYM/
+STAR_develop
+STAR_mgz
+VERSION
+cmake-build-debug/
+common.h
+htslib/
+make.sh
+bcStar*
+_bt_log
+STAR_debug
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
